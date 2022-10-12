@@ -1,2 +1,2 @@
 # juninho.github.io
-Currículo do Jornada Dev
+Currículo desenvolvido no Workshop "Jornada Dev" da EBAC.
